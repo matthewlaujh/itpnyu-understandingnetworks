@@ -1,0 +1,3 @@
+ls -al (lists all files)
+arp -a (all devices connected to)
+ping -c ______ (check if alive)
