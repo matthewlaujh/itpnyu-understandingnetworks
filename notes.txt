@@ -1,3 +1,20 @@
 ls -al (lists all files)
 arp -a (all devices connected to)
 ping -c ______ (check if alive)
+
+curl -X -POST (choose method)
+
+FTP Clients
+    scp {file to send} {server}:{/workingDirectory/file}
+
+pm2 to keep things running
+
+
+https: on arduino
+WiFiSSLClient - 443
+MQTTExplorer app -1883/8083
+
+
+
+
+tcpdump -i en0 -w tcpcatupre.pcap -c 10
